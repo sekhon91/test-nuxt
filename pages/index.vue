@@ -4,6 +4,7 @@
     justify-center
     align-center
   >
+    <h1>Test App Working</h1>
     <v-flex
       xs12
       sm8
